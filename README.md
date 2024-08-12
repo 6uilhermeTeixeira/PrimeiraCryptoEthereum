@@ -35,7 +35,7 @@ git clone https://github.com/6uilhermeTeixeira/RequisitandoDadosAPICriptomoedas.
 - Após clonar repositório no explorador de arquivos caminhar até o arquivo "DIOToken.sol"
 - Após abrir arquivo "DIOToken.sol" caminhar até o "Solidity Compiler" no menu lateral e clicar em "Compile DIOToken.sol"
 - Após Compilar caminhar até "Deploy & run transactions" no menu lateral
-- No campo "Environment" selecionar "Wallet Connect" e conectar a sua Carteira MetaMask.
+- No campo "Environment" selecionar "Injected Provider - Metamask" e conectar a sua Carteira MetaMask.
 - No campo "Contract" Selecionar "DIOToken - contracts/DIOToken.sol"
 - Por fim clicar em "Deploy"
 
