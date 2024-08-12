@@ -20,7 +20,7 @@ Link para a criação da carteira: https://metamask.io/
 3. Configurar Meta Mask para acessar a Test Net criada pelo Ganache:
 -   Nome: DIONet
 -   Token: DIO
--   Chain ID: 5777 (Igual Chain ID no Ganache)
+-   Chain ID: 1337 (Igual Chain ID no Ganache)
 -   RPC URL: HTTP://127.0.0.1:7545 (Igual RPC URL no Ganache)
 
 
