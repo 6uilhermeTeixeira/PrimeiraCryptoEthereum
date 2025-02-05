@@ -1,4 +1,4 @@
-# ETHTestToken
+# Primeira Crypto Ethereum
 Criação de Rede de Testes com Ganache para realizar com a IDE Remix o Deploy do Contrato Inteligente programado em Solidity 
 
 ## Tecnologias Utilizadas
@@ -28,7 +28,7 @@ Link para a criação da carteira: https://metamask.io/
 Acessar online a IDE Remix e caminhar até a sessão "Git", aonde encontrara a aba "Clone"
 
 ```bash
-git clone https://github.com/6uilhermeTeixeira/RequisitandoDadosAPICriptomoedas.git
+git clone https://github.com/6uilhermeTeixeira/primeira-crypto-ethereum.git
 ```
 
 5. Realize a compilação e o Deploy do contrato na IDE Remix
